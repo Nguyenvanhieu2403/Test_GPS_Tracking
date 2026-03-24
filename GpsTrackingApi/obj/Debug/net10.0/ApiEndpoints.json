@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "GpsTrackingApi.Controllers.LocationController",
+    "Method": "Post",
+    "RelativePath": "api/Location",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loc",
+        "Type": "GpsTrackingApi.Models.Location",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GpsTrackingApi.Controllers.LocationController",
+    "Method": "Get",
+    "RelativePath": "api/Location",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
